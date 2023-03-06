@@ -4,7 +4,34 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
+      "adress": "Rua da Paz",
+      "phone": 11999999999,
+      "id": 1
+    },
+    {
+      "email": "kenzinho123@mail.com",
+      "password": "meuDocinhoEMuitoBao",
+      "name": "Kenzinho Do Seu Docinho",
+      "adress": "Rua da Guerra",
+      "phone": 11999999999,
+      "id": 2
+    },
+    {
+      "email": "kenzinho456@mail.com",
+      "password": "meuDocinhoEMuitoRuim",
+      "name": "Kenzinho Do Ódio",
+      "adress": "Rua da Guerra 2.0",
+      "phone": 11999999999,
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "img": "Ahhhhhhhhh",
+      "title": "Docinho bão",
+      "description": "Esse Docinho é muito bão =)",
+      "tag": "Doce do bão",
+      "price": 999,
       "id": 1
     }
   ]
