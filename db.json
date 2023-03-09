@@ -46,7 +46,7 @@
       "img": "./assets/brigadeiro.png",
       "title": "Docinho bão",
       "description": "Esse Docinho é muito bão =)",
-      "tag": "Doce do bão",
+      "tag": "Doce do mal",
       "price": 999,
       "id": 3
     },
@@ -54,7 +54,7 @@
       "img": "./assets/brigadeiro.png",
       "title": "Docinho bão",
       "description": "Esse Docinho é muito bão =)",
-      "tag": "Doce do bão",
+      "tag": "Doce do mal",
       "price": 999,
       "id": 4
     },
@@ -62,7 +62,7 @@
       "img": "./assets/brigadeiro.png",
       "title": "Docinho bão",
       "description": "Esse Docinho é muito bão =)",
-      "tag": "Doce do bão",
+      "tag": "Doce do ruim",
       "price": 999,
       "id": 5
     },
@@ -70,7 +70,7 @@
       "img": "./assets/brigadeiro.png",
       "title": "Docinho bão",
       "description": "Esse Docinho é muito bão =)",
-      "tag": "Doce do bão",
+      "tag": "Doce do ruim",
       "price": 999,
       "id": 6
     }
